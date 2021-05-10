@@ -1,1 +1,1 @@
-# S-P500_Index_Fund
+# S&P500_Index_Fund
